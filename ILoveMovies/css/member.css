@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Orbitron:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+/* 메인 콘텐트 */
+#main_content { position: relative; width: 1000px; height: 400px; margin: 0 auto;}
+/* 가입 양식 폼 */
+#join_box {	width: 600px;	margin: 0 auto; }
+#join_box h2 { 	border-bottom: solid 1px #add8e6; padding-top: 50px; font-family: 'Black Han Sans', sans-serif;
+    -webkit-text-stroke: 0.2px #add8e6; color: #262626;}
+#join_box .col1 { float: left;	width: 110px;    
+    font-family: 'Black Han Sans', sans-serif;
+    -webkit-text-stroke: 0.2px #add8e6;
+    font-size: 18px;
+    text-align: center;
+    color: #262626;} 
+#join_box .col2 { float: left;	width: 400px; color: #cccccc;}
+#join_box .col3 { float: left; }
+#join_box .form input { width: 390px;	height: 22px; color: #add8e6; font-family: 'Orbitron', sans-serif; background-color: transparent;
+border: solid 1px #add8e6;}
+#join_box .form { height: 40px;}
+#join_box .id {	margin-top: 20px; }
+#join_box input[name=email1] { width: 100px; }
+#join_box input[name=email2] { width: 275px; }
+#join_box .bottom_line { margin-top: 10px;	border-bottom: solid 1px #add8e6; }
+#join_box .buttons { text-align: right;	margin: 20px 100px 0 0; }
+
+#join_bo {	width: 600px;	margin: 0 auto; }
+#join_bo h2 { 	border-bottom: solid 1px #FF009D; padding-top: 50px; font-family: 'Oswald', sans-serif;
+    -webkit-text-stroke: 0.2px #FF009D; color: #FFB0B0;}
+#join_bo .col1 { float: left;	width: 110px;    
+    font-family: 'Oswald', sans-serif;
+    -webkit-text-stroke: 0.2px #FF009D;
+    text-align: center;
+    color: #FFB0B0;} 
+#join_bo .col2 { float: left;	width: 400px; color: #FFB0B0; font-family: 'Oswald', sans-serif;}
+#join_bo .col3 { float: left; }
+#join_bo .form input { width: 390px;	height: 22px; color: #FFB0B0; font-family: 'Oswald', sans-serif; background-color: transparent;
+border: solid 1px #FF009D;}
+#join_bo .form { height: 40px;}
+#join_bo .id {	margin-top: 20px; }
+#join_bo input[name=email1] { width: 100px; }
+#join_bo input[name=email2] { width: 275px; }
+#join_bo .bottom_line { margin-top: 10px;	border-bottom: solid 1px #FF009D; }
+#join_bo .buttons { text-align: right;	margin: 20px 100px 0 0; }
