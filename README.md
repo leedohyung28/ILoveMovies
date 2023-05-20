@@ -31,6 +31,7 @@ Online Community for Movie Lovers
 
 ### 🔎 사이트 구성 요소 (동영상, 문서) - 2022년 6월 기준
 [🎥Video](https://youtu.be/B1lZr5O-s6o, "Video 바로가기")
+
 [📄Document](https://docs.google.com/document/d/1XhujPQDli41jMwXy9txJEXinTJarRKbY/edit?usp=share_link&ouid=111824440384685428415&rtpof=true&sd=true, "Document 바로가기")
 
 ---
